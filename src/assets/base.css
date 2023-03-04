@@ -68,20 +68,6 @@ li input {
   margin: 0 0.5rem 0;
 }
 
-#shopping-list > input,
-#shopping-list > select {
-  width: 100%;
-  border-radius: 3px;
-  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
-  border: 1px solid #f1f5f8;
-  color: #606f7b;
-  padding: 0.5rem 0.75rem;
-  box-sizing: border-box;
-  font-size: 1rem;
-  letter-spacing: 0.5px;
-  margin: 0.5rem 0;
-}
-
 .add-item-form,
 .header {
   display: flex;
